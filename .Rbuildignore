@@ -1,2 +1,2 @@
-^packrat/
 ^\.Rprofile$
+^renv$

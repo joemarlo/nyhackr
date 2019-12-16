@@ -1,6 +1,6 @@
 language: r
 r:
-  - 3.5.0
+  - release
 sudo: false
 cache:
   directories:
